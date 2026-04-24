@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "podmiocraft.funserver.top",
+    "ip": "gold.magmanode.com",
     "port": 34644,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
