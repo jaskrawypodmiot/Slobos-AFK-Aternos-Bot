@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "eu1.freegamehost.xyz",
-    "port": :24452,
+    "port": 24452,
     "version": "1.21.11",
     "try-creative": false
   },
