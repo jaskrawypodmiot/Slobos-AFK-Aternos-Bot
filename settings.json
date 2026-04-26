@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gold.magmanode.com",
-    "port": 34644,
-    "version": "1.21.4",
+    "ip": "eu1.freegamehost.xyz",
+    "port": :24452,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
